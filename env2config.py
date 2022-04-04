@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 toJSON = {
-    "image_path": "image.jpg",
+    "image_path": "image.png",
     "image_start_coords": [
         int(json.loads(os.getenv("ENV_DRAW_X_START"))),
         int(json.loads(os.getenv("ENV_DRAW_Y_START"))),
