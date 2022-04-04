@@ -13,8 +13,8 @@
     "tor_delay": 5,
     "use_builtin_tor": true,
     "workers": {
-        "worker1username": {
-            "password": "password",
+        "Flar1976": {
+            "password": "du4RahXiaC",
             "start_coords": [0, 0]
         },
         "worker2username": {
